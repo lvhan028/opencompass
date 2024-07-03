@@ -553,7 +553,7 @@ Some datasets and prompt implementations are modified from [chain-of-thought-hub
 
 <p align="right"><a href="#top">🔝Back to top</a></p>
 
-xyz
+xyz, abc
 
 [github-contributors-link]: https://github.com/open-compass/opencompass/graphs/contributors
 [github-contributors-shield]: https://img.shields.io/github/contributors/open-compass/opencompass?color=c4f042&labelColor=black&style=flat-square
